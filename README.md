@@ -1,6 +1,10 @@
 # Medical-Assistance-and-Surveillance-Robot
 This project mainly aims to eradicate issues which might probably occur during treating patients in quarantine chambers.
 
-| ![](Images/work.png) | 
+| ![](Images/Image.png) | 
 |:--:| 
-| **Figure3.1.1:** *Hall Effect - basic working principal* |
+| **Figure 1 :** *Circuit Design* |
+
+| ![](Images/image4.png) | 
+|:--:| 
+| **Figure 2 :** *Mobile Application Overveiw* |
